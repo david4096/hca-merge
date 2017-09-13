@@ -1,1 +1,3 @@
-from hcamerge import *
+from hcamerge import main
+
+assert main
